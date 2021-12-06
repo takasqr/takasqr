@@ -1,3 +1,3 @@
 # takasqr
 
-https://litely.net/
+https://litely.net
