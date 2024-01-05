@@ -5,9 +5,14 @@
 ## スキルセット
 - プログラミング言語
     * Typescript
+    * Swift
+    * bash
+    * SQL
 - フロントエンド
     * Vue
     * Nuxt
+- モバイル
+    * SwiftUI
 - データベース
     * SQLServer
 - クラウド
