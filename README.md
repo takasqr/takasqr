@@ -29,5 +29,11 @@ iOS版がリリース済みで、Web、Android(TWA)でもリリース予定で�
 
 絶賛、毎日開発中です。
 
-ソースコードはこの GitHub アカウントで公開しています。
+ソースコードはこの GitHub アカウントで公開しています。ソースコードは、Ver.1 まで公開する予定です。
+
+- [FoodAdditiveScanner-LP](https://github.com/takasqr/FoodAdditiveScanner-LP)
+- [FoodAdditiveScanner-WebApp
+](https://github.com/takasqr/FoodAdditiveScanner-WebApp)
+- [FoodAdditiveScanner-WebAPI
+](https://github.com/takasqr/FoodAdditiveScanner-WebAPI)
 
