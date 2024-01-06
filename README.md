@@ -6,7 +6,6 @@
 - プログラミング言語
     * Typescript
     * Swift
-    * bash
     * SQL
 - フロントエンド
     * Vue
