@@ -57,3 +57,9 @@
 - [FoodAdditiveScanner-WebAPI
 ](https://github.com/takasqr/FoodAdditiveScanner-WebAPI)
 
+
+## 作業ログ
+
+作業ログは[こちら](https://zenn.dev/takasqr?tab=scraps)
+
+[[takasqr のスクラップ | Zenn](https://zenn.dev/takasqr?tab=scraps)
