@@ -60,4 +60,6 @@
 
 ## 作業ログ
 
-作業ログは[こちら(takasqr のスクラップ | Zenn)](https://zenn.dev/takasqr?tab=scraps)
+作業ログは[こちら](https://zenn.dev/takasqr?tab=scraps)
+
+[takasqr のスクラップ | Zenn](https://zenn.dev/takasqr?tab=scraps)
