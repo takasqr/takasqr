@@ -20,13 +20,16 @@
 
 ## 作ったもの
 
-### 添加物スキャナー
+- 添加物スキャナー
+- JapanJS
+
+## 添加物スキャナー
 カメラで食品表示ラベルを読み取ると、添加物情報を表示してくれるアプリを開発しています。アプリは iOS版がリリース済みで、Web、Android(TWA)でもリリース予定です。
 
 [添加物スキャナー](https://foodadditive.app/)
 
 
-#### リリース状況
+### リリース状況
 
 絶賛、毎日開発中です。
 
@@ -43,7 +46,7 @@
 | ✅ | リリース済み |
 | 🚧 | 開発中 |
 
-#### ソースコード
+### ソースコード
 
 ソースコードはこの GitHub アカウントで公開しています。ソースコードは基本的な機能を備えた、Ver.1 まで公開する予定です。
 
@@ -57,7 +60,7 @@
 - [FoodAdditiveScanner-WebAPI
 ](https://github.com/takasqr/FoodAdditiveScanner-WebAPI)
 
-### JapanJS
+## JapanJS
 
 JapanJS は日本特有の機能を提供するライブラリです。
 カナ変換、都道府県の一覧データなど、日本特有のめんどくさい実装を肩代わりします。Tree Shaking なライブラリなのでバンドルサイズが重くなりません。
@@ -66,7 +69,7 @@ JapanJS は日本特有の機能を提供するライブラリです。
 - 都道府県一覧
 - 国民の祝日一覧
 
-#### Usage
+### Usage
 
 ```js
 import { Character } from 'jspanjs';
@@ -79,7 +82,7 @@ Character.toKatakana('ひらがな')
 
 ```
 
-#### ドキュメントサイト
+### ドキュメントサイト
 
 [japanjs.org](https://japanjs.org)
 
