@@ -88,6 +88,7 @@ Character.toKatakana('ひらがな')
 
 ## 作業ログ
 
-作業ログは[こちら](https://zenn.dev/takasqr?tab=scraps)
+作業ログはこちら。
 
-[takasqr のスクラップ | Zenn](https://zenn.dev/takasqr?tab=scraps)
+- [技術ブログ](https://blog.takasqr.dev)
+- [takasqr のスクラップ | Zenn](https://zenn.dev/takasqr?tab=scraps)
