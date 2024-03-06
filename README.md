@@ -94,3 +94,4 @@ Character.toKatakana('ひらがな')
 
 - [技術ブログ](https://blog.takasqr.dev)
 - [takasqr のスクラップ | Zenn](https://zenn.dev/takasqr?tab=scraps)
+
