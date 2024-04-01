@@ -13,7 +13,7 @@
     * Vue
     * Nuxt
 - モバイル
-    * SwiftUI
+    * SwiftUI　([添加物スキャナー](https://foodadditive.app) [コード](https://github.com/takasqr/FoodAdditiveScanner-iOS))
 - デスクトップ
     * Electron
 - データベース
