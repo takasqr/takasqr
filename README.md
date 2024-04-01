@@ -22,9 +22,7 @@
     * AWS
     * Firebase
 
-## 作業ログ
-
-作業ログはこちら。
+## ブログ
 
 - [技術ブログ](https://blog.takasqr.dev)
 - [takasqr のスクラップ | Zenn](https://zenn.dev/takasqr?tab=scraps)
