@@ -16,6 +16,8 @@
     * Electron [KeyScript](https://keyscript.app)
 - データベース
     * SQLServer
+- 仮想化
+    * Docker [ブログ記事](https://blog.takasqr.dev/docker)
 - クラウド
     * AWS [ブログ記事](https://blog.takasqr.dev/aws)
     * Firebase [ブログ記事](https://blog.takasqr.dev/firebase)
