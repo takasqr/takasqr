@@ -15,7 +15,7 @@
 - モバイル
     * SwiftUI [添加物スキャナー](https://foodadditive.app) ([コード](https://github.com/takasqr/FoodAdditiveScanner-iOS))
 - デスクトップ
-    * Electron
+    * Electron [KeyScript](https://keyscript.app)
 - データベース
     * SQLServer
 - クラウド
