@@ -9,7 +9,7 @@
     * SQL
 - フロントエンド
     * Vue [ブログ記事](https://blog.takasqr.dev/vuejs)
-    * Nuxt
+    * Nuxt [技術ブログ](https://blog.takasqr.dev) & 各LPのGitHub([添加物スキャナー](https://github.com/takasqr/FoodAdditiveScanner-LP)、[JapanJS](https://github.com/japanjsorg/japanjsorg))
 - モバイル
     * SwiftUI [添加物スキャナー](https://foodadditive.app) ([コード](https://github.com/takasqr/FoodAdditiveScanner-iOS))
 - デスクトップ
