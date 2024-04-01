@@ -2,15 +2,13 @@
 
 はじめまして。私はアプリケーション開発が大好きなエンジニアです。
 
-[プロフィール](https://takasqr.dev)
-
 ## スキルセット
 - プログラミング言語
-    * Typescript
+    * Typescript [JapanJS](https://japanjs.org)
     * Swift
     * SQL
 - フロントエンド
-    * Vue
+    * Vue [ブログ記事](https://blog.takasqr.dev/vuejs)
     * Nuxt
 - モバイル
     * SwiftUI [添加物スキャナー](https://foodadditive.app) ([コード](https://github.com/takasqr/FoodAdditiveScanner-iOS))
@@ -19,8 +17,8 @@
 - データベース
     * SQLServer
 - クラウド
-    * AWS
-    * Firebase
+    * AWS [ブログ記事](https://blog.takasqr.dev/aws)
+    * Firebase [ブログ記事](https://blog.takasqr.dev/firebase)
 
 ## ブログ
 
