@@ -8,7 +8,7 @@
 
 - プログラミング言語
     * Typescript [JapanJS](https://japanjs.org)
-    * Swift
+    * Swift [SwiftWing](https://github.com/takasqr/SwiftWing)
     * SQL
 - フロントエンド
     * Vue [chibivue](https://github.com/takasqr/chibivue)、[ブログ記事](https://blog.takasqr.dev/vuejs)
@@ -21,7 +21,7 @@
 - データベース
     * SQLServer
 - ネットワーク
-   * Yamaha
+   * Yamaha [ブログ記事](https://blog.takasqr.dev/yamaha)
 - 仮想化
     * Docker [ブログ記事](https://blog.takasqr.dev/docker)
 - クラウド
