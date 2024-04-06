@@ -8,7 +8,7 @@
 
 - プログラミング言語
     * Typescript [JapanJS](https://japanjs.org)
-    * Swift [SwiftWing](https://github.com/takasqr/SwiftWing)
+    * Swift [SwiftWing](https://github.com/takasqr/SwiftWing)、[AIClient](https://github.com/takasqr/AIClient)
     * SQL
 - フロントエンド
     * Vue [chibivue](https://github.com/takasqr/chibivue)、[ブログ記事](https://blog.takasqr.dev/vuejs)
