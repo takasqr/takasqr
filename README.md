@@ -6,8 +6,8 @@
 
 ## New Works
 
-- [eslint-plugin-pattern-rules](https://github.com/takasqr/eslint-plugin-pattern-rules): 正規表現で禁止文字、必須文字を指定できる eslint プラグイン(開発中)
-- [unicode-json](https://github.com/takasqr/unicode-json): 全 Unicode の情報を検索できるライブラリ(開発中)
+- eslint-plugin-pattern-rules([GitHub](https://github.com/takasqr/eslint-plugin-pattern-rules)): 正規表現で禁止文字、必須文字を指定できる eslint プラグイン(開発中)
+- unicode-json([GitHub](https://github.com/takasqr/unicode-json)): 全 Unicode の情報を検索できるライブラリ(開発中)
 
 ## スキルセット
 
